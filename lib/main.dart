@@ -63,7 +63,7 @@ class MyApp extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Text(
-                "Why is your teeth yellow?",
+                "mustardy yellow",
                 style: goldcoinGreyStyle,
               )
             ],
